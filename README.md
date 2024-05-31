@@ -30,8 +30,7 @@ Para instalar y ejecutar el backend localmente, sigue estos pasos:
    ```bash
    npm run dev
 6. Frontend de la aplicación web:
-    ```bash
-   https://github.com/Iglesias0714/AWM-Proyecto-Final-EmpathyShop/
+  [AWM-Proyecto-Final-EmpathyShop](https://github.com/Iglesias0714/AWM-Proyecto-Final-EmpathyShop)
     
 ## Configuración de componentes
 | Nombre del Componente | Descripción | Enlace |
