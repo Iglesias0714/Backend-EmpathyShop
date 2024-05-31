@@ -42,7 +42,7 @@ El proyecto tiene la siguiente estructura de directorios:
 
 | Nombre del Componente | Descripción | Enlace |
 |-----------------------|-------------|--------|
-| `Product`             | Modelo de datos para los productos. | [Product.js](./backend/models/Product.js) |
+| `Product`             | Modelo de datos para los productos. | [Product.js](./Backend-EmpathyShop/models/) |
 | `products`            | Rutas para manejar las operaciones CRUD de productos. | [products.js](./backend/routes/products.js) |
 | `server`              | Configuración del servidor Express. | [server.js](./backend/server.js) |
 | `.env`                | Archivo de variables de entorno. | [.env](./backend/.env) |
