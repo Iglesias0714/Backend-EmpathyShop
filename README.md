@@ -30,11 +30,11 @@ Para instalar y ejecutar el backend localmente, sigue estos pasos:
    ```bash
    npm run dev
 
-
 | Nombre del Componente | Descripción | Enlace |
 |-----------------------|-------------|--------|
-| `Product`             | Modelo de datos para los productos. | [Product.js](./backend/models/Product.js) |
-| `products`            | Rutas para manejar las operaciones CRUD de productos. | [products.js](./backend/routes/products.js) |
-| `server`              | Configuración del servidor Express. | [server.js](./backend/server.js) |
-| `.env`                | Archivo de variables de entorno. | [.env](./backend/.env) |
+| `Product`             | Modelo de datos para los productos. | [Product.js](./models/Product.js) |
+| `products`            | Rutas para manejar las operaciones CRUD de productos. | [products.js](./routes/products.js) |
+| `server`              | Configuración del servidor Express. | [server.js](./server.js) |
+| `.env`                | Archivo de variables de entorno. | [.env](./.env) |
+
 
