@@ -29,7 +29,11 @@ Para instalar y ejecutar el backend localmente, sigue estos pasos:
 5. Inicia el servidor de desarrollo:
    ```bash
    npm run dev
-
+6. Frontend de la aplicación web:
+    ```bash
+   https://github.com/Iglesias0714/AWM-Proyecto-Final-EmpathyShop/
+    
+## Configuración de componentes
 | Nombre del Componente | Descripción | Enlace |
 |-----------------------|-------------|--------|
 | `Product`             | Modelo de datos para los productos. | [Product.js](./models/Product.js) |
